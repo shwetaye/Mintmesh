@@ -1,5 +1,5 @@
 * problem_2
-1. Install all the requirements for this to run successfully
+1. Install all the requirements from requirements.txt to run Problem_2.py successfully.
 use this command first - pip install -r requirements.txt
 2. run - python problem_2.py
 3. when it will give - run Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
